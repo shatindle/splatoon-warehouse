@@ -1,0 +1,7 @@
+{
+    "token": "YOUR DISCORD BOT TOKEN",
+    "guild": "YOUR SERVER/GUILD ID",
+    "client_id": "YOUR CLIENT ID",
+    "client_secret": "YOUR CLIENT SECRET",
+    "redirect_uri": "http://localhost:80/discordlogin"
+}

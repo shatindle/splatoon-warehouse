@@ -1,0 +1,14 @@
+{
+    "secureCookie": false,
+    "secure": false,
+    "http": 80,
+    "loginUrl": "https://discord.com/api/oauth2/authorize?client_id=YOUR CLIENT ID&redirect_uri=http%3A%2F%2Flocalhost%3A80%2Fdiscordlogin&response_type=code&scope=identify",
+    "secret": "A RANDOMLY GENERATED SECRET YOU MAKE UP",
+    "baseUrl": "http://localhost",
+    "apiKeyName": "x-rsapi-key",
+    "apiKeyValue": "PRE-SHARED API KEY TO WORK WITH THE SUITE OF APPLICATIONS LIKE PROFILE.RSPLATOON.COM",
+    "database": {
+        "username": "USERNAME FOR YOUR SQLITE FILE",
+        "password": "PASSWORD FOR YOUR SQLITE FILE"
+    }
+}
